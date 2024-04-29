@@ -1,5 +1,5 @@
 # fluxing
-flux cd playground
+flux cd playground while watching https://youtu.be/X5W_706-jSY
 
 Bootstrapping
 ```bash
