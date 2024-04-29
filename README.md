@@ -13,6 +13,6 @@ flux bootstrap github \
 ```
 flux check
 ```bash
-kubectl -n flux-syste get GitRepository
+kubectl -n flux-system get GitRepository
 kubectl -n flux-system get Kustomization
 ```
